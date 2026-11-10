@@ -1,4 +1,4 @@
-# Heart Drawing App ❤️
+# Heart Drawing App 
 
 ## Project Overview
 A simple Python project that uses the Turtle graphics library to draw a beautiful heart shape on a black background, with the text **"I love you"** repeated throughout the design.
